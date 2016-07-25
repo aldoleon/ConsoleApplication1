@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git Example App Demo !");  //Firstly written 
+            Console.WriteLine("Hello !");  //Firstly written 
             Console.ReadLine();
         }
     }
